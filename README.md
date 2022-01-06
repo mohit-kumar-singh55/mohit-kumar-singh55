@@ -6,7 +6,9 @@
 
 <h3 align="center">I'm a passionate Full Stack Web Developer and I am interested in developing new things which excite me a lot. I love exploring new technologies and being a practitioner, I like to stay on top of latest trends.</h3>
 
-- 🌱 I’m currently learning **Back-End Development**
+- 🌱 I’m currently learning **App Development**
+
+- 😶 Portfolio: **https://mohit-kumar-singh55.github.io/mks.github.io/**
 
 - 📫 How to reach me **mohitkumarsingh12344@gmail.com**
 
