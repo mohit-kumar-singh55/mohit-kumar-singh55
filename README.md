@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **App Development**
 
-- 😶 Portfolio: **https://mohit-kumar-singh55.github.io/mks.github.io/**
+- 😶 Portfolio: **https://mksio.netlify.app**
 
 - 📫 How to reach me **mohitkumarsingh12344@gmail.com**
 
