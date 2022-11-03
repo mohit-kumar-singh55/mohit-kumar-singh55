@@ -6,7 +6,7 @@
 
 <h3 align="center">I'm a passionate Full Stack Web Developer and I am interested in developing new things which excite me a lot. I love exploring new technologies and being a practitioner, I like to stay on top of latest trends.</h3>
 
-- 🌱 I’m currently learning **App Development**
+- 🌱 I’m currently learning **Game Development**
 
 - 😶 Portfolio: **https://mksio.netlify.app**
 
