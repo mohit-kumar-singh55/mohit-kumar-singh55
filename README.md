@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Game Development**
 
-- 😶 Portfolio: **https://mksio.netlify.app**
+- 😶 Portfolio: **https://mksio.vercel.app**
 
 - 📫 How to reach me **mohitkumarsingh12344@gmail.com**
 
