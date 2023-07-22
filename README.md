@@ -1,8 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Mohit Kumar Singh
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">,I'm Mohit Kumar Singh</h1>
 =========================================================================================================================================
 
-Full Stack Developer
+<h2 align='center'>Full Stack Developer</h2>
 --------------------
+
+## 🙋‍♂️ About Me
 
 I'm a passionate Full Stack Developer and I am interested in developing new things which excite me a lot. I love exploring new technologies and being a practitioner, I like to stay on top of latest trends.
 
@@ -14,7 +16,7 @@ I'm a passionate Full Stack Developer and I am interested in developing new thin
 * 🤝  I'm open to collaborating on Projects
 * ⚡  Fun fact I play games and do exercise very often.
 
-### Skills
+## 🚀 Skills
 
 
 <p align="left">
@@ -45,13 +47,11 @@ I'm a passionate Full Stack Developer and I am interested in developing new thin
 </p>
 
 
-### Socials
+## 🔭 Connect with me
 
 <p align="left"> <a href="https://discord.com/users/sniper.mks" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/mohit-kumar-singh55" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/sniper.mks_55" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mohit-kumar-singh-128ab4217" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@sniper.mks_55" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a></p>
 
-### Badges
-
-<b>My GitHub Stats</b>
+## 📊 My Github Stats
 
 <a href="http://www.github.com/mohit-kumar-singh55"><img src="https://github-readme-stats.vercel.app/api?username=mohit-kumar-singh55&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&show_icons=true" alt="mohit-kumar-singh55's GitHub stats" /></a>
 
