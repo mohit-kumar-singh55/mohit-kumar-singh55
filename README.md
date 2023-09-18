@@ -60,3 +60,5 @@ I'm a passionate Full Stack Developer and I am interested in developing new thin
 <a href="http://www.github.com/mohit-kumar-singh55"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=mohit-kumar-singh55&bg_color=22272e&color=ffffff&line=0891b2&point=ffffff&area_color=22272e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/mohit-kumar-singh55" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohit-kumar-singh55&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+![](https://github-profile-trophy.vercel.app/?username=mohit-kumar-singh55&theme=radical&no-frame=false&no-bg=true&margin-w=4)
