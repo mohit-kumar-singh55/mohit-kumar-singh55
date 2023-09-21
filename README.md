@@ -1,12 +1,12 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">,I'm Mohit Kumar Singh</h1>
 
 
-<h2 align='center'>Full Stack Developer</h2>
+<h2 align='center'>Full Stack Web & App Developer</h2>
 
 
 ## 🙋‍♂️ About Me
 
-I'm a passionate Full Stack Developer and I am interested in developing new things which excite me a lot. I love exploring new technologies and being a practitioner, I like to stay on top of latest trends.
+I'm a passionate Full Stack Web & App Developer and I am interested in developing new things which excite me a lot. I love exploring new technologies and being a practitioner, I like to stay on top of latest trends.
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [mks.io](http://mksio.vercel.app)
