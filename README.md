@@ -11,7 +11,7 @@ I'm a passionate Full Stack Web & App Developer and I am interested in developin
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [mks.io](http://mksio.vercel.app)
 * ✉️  You can contact me at [mohitkumarsingh12344@gmail.com](mailto:mohitkumarsingh12344@gmail.com)
-* 🚀  I'm currently working on [My new Portfolio](http://new-mksio.vercel.app)
+* 🚀  I'm currently working on [My new Portfolio](http://mksio.vercel.app)
 * 🧠  I'm learning Game Development
 * 🤝  I'm open to collaborating on Projects
 * ⚡  Fun fact I play games and do exercise very often.
