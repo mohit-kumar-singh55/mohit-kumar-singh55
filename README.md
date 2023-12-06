@@ -66,7 +66,7 @@ I'm a passionate Full Stack Web & App Developer and I am interested in developin
 ## Visits
 
 <p align="center">
-  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@mohit-kumar-singh?theme=rule34" width='100%' /></a>
+  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@mohit-kumar-singh?theme=rule34" style="max-width: 100%;width: 65%;" /></a>
 </p>
 
 Counting since `Wed Dec 06 2023 14:05:12 GMT+0530 (インド標準時)`
