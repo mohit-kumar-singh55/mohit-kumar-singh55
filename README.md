@@ -63,7 +63,7 @@ I'm a passionate Full Stack Web & App Developer and I am interested in developin
 
 ![](https://github-profile-trophy.vercel.app/?username=mohit-kumar-singh55&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## Visits
+## 👀 Visits
 
 <p align="center">
   <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@mohit-kumar-singh?theme=rule34" style="max-width: 100%;width: 65%;" /></a>
