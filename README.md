@@ -62,3 +62,11 @@ I'm a passionate Full Stack Web & App Developer and I am interested in developin
 <a href="https://github.com/mohit-kumar-singh55" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohit-kumar-singh55&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ![](https://github-profile-trophy.vercel.app/?username=mohit-kumar-singh55&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+## Visits
+
+<p align="center">
+  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@mohit-kumar-singh?theme=rule34"/></a>
+</p>
+
+Counting since `Wed Dec 06 2023 14:05:12 GMT+0530 (インド標準時)`
