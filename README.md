@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-I'm a passionate Full Stack Web & App Developer and I am interested in developing new things which excite me a lot. I love exploring new technologies and being a practitioner, I like to stay on top of latest trends.
+I'm a passionate Full Stack Developer and I am interested in developing new things which excite me a lot. I love exploring new technologies and being a practitioner, I like to stay on top of latest trends.
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [mks.io](http://mksio.vercel.app)
