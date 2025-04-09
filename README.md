@@ -8,13 +8,13 @@
 
 I'm a passionate Full-Stack Developer. I am interested in developing new things, which excites me a lot. I love exploring new technologies, and as a practitioner, I like to stay on top of the latest trends.
 
-* 🌍  I'm based in India
+* 🌍  Currently, I'm in Japan
 * 🖥️  See my portfolio at [mks.io](http://mksio.vercel.app)
 * ✉️  You can contact me at [mohitkumarsingh12344@gmail.com](mailto:mohitkumarsingh12344@gmail.com)
 * 🚀  I'm currently working on [My new Portfolio](http://mksio.vercel.app)
 * 🧠  I'm learning Game Development
 * 🤝  I'm open to collaborating on Projects
-* ⚡  Fun fact: I like making games more than playing.
+* ⚡  Fun fact: I like making games more than playing
 
 ## 🚀 Skills
 
