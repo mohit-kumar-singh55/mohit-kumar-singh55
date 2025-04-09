@@ -20,7 +20,7 @@ I'm a passionate Full-Stack Developer. I am interested in developing new things,
 
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,html,css,tailwind,javascript,ts,nodejs,react,nextjs,py,cpp,cs,sass,materialui,redux,express,mongodb,mysql,linux,kali,figma,pr,blender,unity&perline=20" />
+<img src="https://skillicons.dev/icons?i=git,html,css,tailwind,javascript,ts,nodejs,react,nextjs,py,cpp,cs,sass,materialui,redux,express,mongodb,mysql,linux,kali,figma,pr,blender,unity&perline=15" />
 </p>
 
 
