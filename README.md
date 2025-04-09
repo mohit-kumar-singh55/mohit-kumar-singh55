@@ -19,8 +19,32 @@ I'm a passionate Full-Stack Developer. I am interested in developing new things,
 ## 🚀 Skills
 
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,html,css,tailwind,javascript,ts,nodejs,react,nextjs,py,cpp,cs,sass,materialui,redux,express,mongodb,mysql,linux,kali,figma,pr,blender,unity&perline=15" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git" title="Git" />
+  <img src="https://skillicons.dev/icons?i=html" title="HTML" />
+  <img src="https://skillicons.dev/icons?i=css" title="CSS" />
+  <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind" />
+  <img src="https://skillicons.dev/icons?i=javascript" title="JS" />
+  <img src="https://skillicons.dev/icons?i=ts" title="TS" />
+  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.JS" />
+  <img src="https://skillicons.dev/icons?i=react" title="React JS" />
+  <img src="https://skillicons.dev/icons?i=nextjs" title="Next JS" />
+  <img src="https://skillicons.dev/icons?i=py" title="Python" />
+  <img src="https://skillicons.dev/icons?i=cpp" title="C++" />
+  <img src="https://skillicons.dev/icons?i=cs" title="C#" />
+  <img src="https://skillicons.dev/icons?i=sass" title="SASS" />
+  <img src="https://skillicons.dev/icons?i=materialui" title="MUI" />
+  <img src="https://skillicons.dev/icons?i=redux" title="Redux" />
+  <img src="https://skillicons.dev/icons?i=express" title="Express.js" />
+  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
+  <img src="https://skillicons.dev/icons?i=linux" title="Linux" />
+  <img src="https://skillicons.dev/icons?i=kali" title="Kali Linux" />
+  <img src="https://skillicons.dev/icons?i=figma" title="Figma" />
+  <img src="https://skillicons.dev/icons?i=pr" title="Premiere Pro" />
+  <img src="https://skillicons.dev/icons?i=blender" title="Blender" />
+  <img src="https://skillicons.dev/icons?i=unity" title="Unity" />
+<!-- <img src="https://skillicons.dev/icons?i=git,html,css,tailwind,javascript,ts,nodejs,react,nextjs,py,cpp,cs,sass,materialui,redux,express,mongodb,mysql,linux,kali,figma,pr,blender,unity&perline=15" /> -->
 </p>
 
 
