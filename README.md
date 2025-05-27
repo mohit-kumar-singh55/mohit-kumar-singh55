@@ -70,4 +70,6 @@ I'm a passionate Full-Stack Developer. I am interested in developing new things,
   <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@mohit-kumar-singh?theme=rule34" style="max-width: 100%;width: 65%;" /></a>
 </p>
 
-Counting since `Wed Dec 06 2023 14:05:12 GMT+0530 (インド標準時)`
+<p align='left'>
+<!--   Counting since `Wed Dec 06 2023 14:05:12 GMT+0530 (インド標準時)` -->
+</p>
