@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">,I'm Mohit Kumar Singh</h1>
 
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Game+Developer)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Game+Developer;Full+Stack+Developer)](https://git.io/typing-svg)
 
 
 ## 🙋‍♂️ About Me
@@ -44,6 +44,7 @@ I'm a passionate Full-Stack Developer. I am interested in developing new things,
   <img src="https://skillicons.dev/icons?i=pr" title="Premiere Pro" />
   <img src="https://skillicons.dev/icons?i=blender" title="Blender" />
   <img src="https://skillicons.dev/icons?i=unity" title="Unity" />
+  <img src="https://skillicons.dev/icons?i=unreal" title="Unreal Engine" />
 <!-- <img src="https://skillicons.dev/icons?i=git,html,css,tailwind,javascript,ts,nodejs,react,nextjs,py,cpp,cs,sass,materialui,redux,express,mongodb,mysql,linux,kali,figma,pr,blender,unity&perline=15" /> -->
 </p>
 
