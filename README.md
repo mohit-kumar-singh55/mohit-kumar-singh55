@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-I'm a passionate Full-Stack Developer. I am interested in developing new things, which excites me a lot. I love exploring new technologies, and as a practitioner, I like to stay on top of the latest trends.
+I'm a passionate Game Developer. I am interested in developing new things, which excites me a lot. I love exploring new technologies, and as a practitioner, I like to stay on top of the latest trends.
 
 * 🌍  Currently, I'm in Japan
 * 🖥️  See my portfolio at [mks.io](http://mksio.vercel.app)
