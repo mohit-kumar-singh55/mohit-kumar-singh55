@@ -4,13 +4,13 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Game+Developer;Full+Stack+Developer)](https://git.io/typing-svg)
 
 
-## 🙋‍♂️ About Me
+<!-- ## 🙋‍♂️ About Me -->
 
 <!-- I'm a passionate Game Developer. I am interested in developing new things, which excites me a lot. I love exploring new technologies, and as a practitioner, I like to stay on top of the latest trends. -->
 
-* 🌍  Currently, I'm in Japan
+<!-- * 🌍  Currently, I'm in Japan
 * 🖥️  See my portfolio at [mks.io](http://mksio.vercel.app)
-* ✉️  You can contact me at [mohitkumarsingh12344@gmail.com](mailto:mohitkumarsingh12344@gmail.com)
+* ✉️  You can contact me at [mohitkumarsingh12344@gmail.com](mailto:mohitkumarsingh12344@gmail.com) -->
 <!-- * 🚀  I'm currently working on [My new Portfolio](http://mksio.vercel.app)
 * 🧠  I'm learning Game Development
 * 🤝  I'm open to collaborating on Projects
